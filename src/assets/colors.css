@@ -1,0 +1,34 @@
+:root {
+    --primary-color: #ff9d00;
+    --primary-hover-color: #e97c00dc;
+    --secondary-color: #a8ff94;
+    --secondary-hover-color: #09558c;
+    --background-color: #f6f6f6;
+    --text-color: #333;
+  }
+  
+  .primary-color {
+    color: var(--primary-color);
+  }
+  
+  .primary-background {
+    color: var(--primary-color);
+    color: #000;
+  }
+  
+  .secondary-color {
+    color: var(--secondary-color);
+  }
+  
+  .secondary-background {
+    color: var(--secondary-color);
+    color: #fff;
+  }
+
+  .primary-btn {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+  }

@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nerko+One&display=swap');
+
+.primary-font {
+    font-family: 'Nerko One', cursive;
+}
+.secondary-font{
+    font-family: 'Bebas Neue', sans-serif;
+}
